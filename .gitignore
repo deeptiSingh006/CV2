@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+vgg_face_weights.h5
+images.npy
+PINS.zip
+embeddings.npy
+training_images.zip
 # Distribution / packaging
 .Python
 build/
